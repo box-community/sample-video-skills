@@ -18,7 +18,7 @@ The [Github Repository for Box Skills Kit Library](https://github.com/box/box-sk
 
 The file formats supported by your skill depend on the files supported by Box and by the selected machine learning service.
 
-Box supports [the following image formats](https://community.box.com/t5/How-to-Guides-for-Managing/File-Types-and-Fonts-Supported-in-Box-Content-Preview/ta-p/327#Type_Images) for direct previewing using Box Preview. The various machine learning providers often support a different set of file formats completely.
+Box supports [the following video formats](https://community.box.com/t5/How-to-Guides-for-Managing/File-Types-and-Fonts-Supported-in-Box-Content-Preview/ta-p/327#Type_VideoFiles) for direct previewing using Box Preview. The various machine learning providers often support a different set of file formats completely.
 
 You can expand the effective set of file formats supported by your machine learning provider by using [Box's BasicFormat](https://github.com/box/box-skills-kit-nodejs/tree/master/skills-kit-library#basic-format) functionality in the Skills Kit. This automatically converts some file formats to more commonly used formats for you to use in your skill.
 
