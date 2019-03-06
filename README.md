@@ -1,8 +1,8 @@
-# Box Skills Samples: Custom Skills for Processing Video Files 
+# Box Skills Samples: Custom Skills for Processing Video Files
 
 This repository will contains community created Box Skills samples for processing **video files** on Box. Box supports [the following video formats](https://community.box.com/t5/How-to-Guides-for-Managing/File-Types-and-Fonts-Supported-in-Box-Content-Preview/ta-p/327#Type_VideoFiles) to directly load and play in Box preview.
 
-> Samples pending
+* [Microsoft Azure Video Faces, Transcript and Topics Extraction](microsoft-azure-faces-transcript-topics-detection) - Uses the [Micrsoft Azure Media Services](https://docs.microsoft.com/en-us/azure/media-services/latest/analyzing-video-audio-files-concept) to extract Faces, Topics, and Transcripts from video files and write it back to Box as metadata on the file, as well show as close caption on the video itself.
 
 ## What are Box Skills?
 
@@ -12,7 +12,7 @@ Visit the [Official Box Skills Developer Documentation](https://developer.box.co
 
 ## What is the Box Skills Kit?
 
-The [Github Repository for Box Skills Kit Library](https://github.com/box/box-skills-kit-nodejs) is our official toolkit for writing custom Box Skills in Node.js. It minimizes the client side code to Box Files and Skills-Invocations APIs to a few lines and provides other utility functions to make developing your code very simple. It has the [Skills-kit Library and API Documentation](https://github.com/box/box-skills-kit-nodejs/tree/master/skills-kit-library)  and Boilerplate Skills that you can quickly deploy and expand on, when developing a new Skill.
+The [Github Repository for Box Skills Kit Library](https://github.com/box/box-skills-kit-nodejs) is our official toolkit for writing custom Box Skills in Node.js. It minimizes the client side code to Box Files and Skills-Invocations APIs to a few lines and provides other utility functions to make developing your code very simple. It has the [Skills-kit Library and API Documentation](https://github.com/box/box-skills-kit-nodejs/tree/master/skills-kit-library) and Boilerplate Skills that you can quickly deploy and expand on, when developing a new Skill.
 
 ## What file formats are supported by Box Skills?
 
@@ -25,7 +25,6 @@ You can expand the effective set of file formats supported by your machine learn
 ## How do I deploy a Box Skill?
 
 In developing your custom Box Skill, you would need to deploy it somewhere. Have a look at our [Quick Start Deployment Instructions](https://github.com/box/box-skills-kit-nodejs/tree/master/boilerplate-skills) to learn how to deploy the boilerplate skills to any of your preferred cloud server providers or on your own server environment. Additionally, each of the sample skills in this repository may give extra or alternative deployment instructions, that you can use.
-
 
 ## License
 
