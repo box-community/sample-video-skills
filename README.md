@@ -1,4 +1,6 @@
-# Box Skills Samples: Custom Skills for Processing Video Files
+# This repository has been archived due to our current work to update all Box Skills sample code. We will be releasing updated samples soon.
+
+## Box Skills Samples: Custom Skills for Processing Video Files
 
 This repository will contains community created Box Skills samples for processing **video files** on Box. Box supports [the following video formats](https://community.box.com/t5/How-to-Guides-for-Managing/File-Types-and-Fonts-Supported-in-Box-Content-Preview/ta-p/327#Type_VideoFiles) to directly load and play in Box preview.
 
